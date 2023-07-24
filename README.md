@@ -1,3 +1,4 @@
+![Screenshot 2023-07-24 230725](https://github.com/Anik-18/Anik-18/assets/121821746/20edd943-2ce2-42f1-8465-e0257861e1d6)
 <div background-color="red">
 <h1 align="center">Hi 👋, I'm S S Anik</h1>
 <h3 align="center">A Passionate Full Stack Developer From Bangladesh</h3>
