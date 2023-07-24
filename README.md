@@ -1,4 +1,3 @@
-![Yellow and Black Gaming Facebook Cover (2200 × 924 px)](https://github.com/Anik-18/Anik-18/assets/121821746/b93abba2-9ee0-46ba-86b1-9e212fd8c4f6)
 <div background-color="red">
 <h1 align="center">Hi 👋, I'm S S Anik</h1>
 <h3 align="center">A Passionate Full Stack Developer From Bangladesh</h3>
