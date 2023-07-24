@@ -1,8 +1,9 @@
+![Yellow and Black Gaming Facebook Cover](https://github.com/Anik-18/Anik-18/assets/121821746/a02cf823-6716-4df3-879f-2d65d2262878)
 <div background-color="red">
 <h1 align="center">Hi 👋, I'm S S Anik</h1>
 <h3 align="center">A Passionate Full Stack Developer From Bangladesh</h3>
 
-![965](https://user-images.githubusercontent.com/121821746/212480632-31b630e7-1642-446f-ad0d-9fd76c9a5455.png)
+![Yellow and Black Gaming Facebook Cover](https://github.com/Anik-18/Anik-18/assets/121821746/a02cf823-6716-4df3-879f-2d65d2262878)
 
 ## 🌐Socials
 
