@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anik-18&label=Profile%20views&color=0e75b6&style=flat" alt="Anik-18" /> </p>
-
 <div background-color="red">
 <h1 align="center">Hi 👋, I'm S S Anik</h1>
 <h3 align="center">A Passionate Full Stack Developer From Bangladesh</h3>
