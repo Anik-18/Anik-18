@@ -1,5 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/104720889/224196163-2863c3e2-5959-4974-b66b-e5381e4904bf.gif" alt="multitasking-woman" >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NadaAlaaEldeen&label=Profile%20views&color=0e75b6&style=flat" alt="nadaAlaaEldeen" /> </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/104720889/224196163-2863c3e2-5959-4974-b66b-e5381e4904bf.gif" alt="multitasking-man" >
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anik-18&label=Profile%20views&color=0e75b6&style=flat" alt="nadaAlaaEldeen" /> </p>
 
 <div background-color="red">
 <h1 align="center">Hi 👋, I'm S S Anik</h1>
