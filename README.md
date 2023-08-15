@@ -5,14 +5,12 @@
 
 
 ## 🌐Socials
-
 ![Yellow and Black Gaming Facebook Cover (2200 × 924 px)](https://github.com/Anik-18/Anik-18/assets/121821746/61218a8e-004b-4627-bf24-bbe204a4f67f)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ssanik7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/githu![Yellow and Black Gaming Facebook Cover (2200 × 924 px)](https://github.com/Anik-18/Anik-18/assets/121821746/e88ab4be-3173-4963-a200-97a65ac8ec9e)
-b-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SSAnik7" height="30" width="40" /></a>
+<a href="https://twitter.com/ssanik7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SSAnik7" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anik18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anik-543578231" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100071705527794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="S S Anik" height="30" width="40" /></a>
 <a href="https://instagram.com/ssanik05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssanik05" height="30" width="40" /></a>
