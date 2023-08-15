@@ -5,6 +5,9 @@
  
  ![github banner](https://github.com/Anik-18/Anik-18/assets/121821746/39ae87a8-078b-479b-b12e-1d1c108d49a1)
 
+ 
+![Yellow and Black Gaming Facebook Cover (2200 × 924 px)](https://github.com/Anik-18/Anik-18/assets/121821746/602ab6ad-0e43-44c1-9409-69b911413c34)
+
 
 
 ## 🌐Socials
