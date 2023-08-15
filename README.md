@@ -1,7 +1,8 @@
 <div background-color="red">
 <h1 align="center">Hi 👋, I'm S S Anik</h1>
 <h3 align="center">A Passionate Full Stack Developer From Bangladesh</h3>
-![github banner](https://github.com/Anik-18/Anik-18/assets/121821746/39ae87a8-078b-479b-b12e-1d1c108d49a1)
+
+ ![github banner](https://github.com/Anik-18/Anik-18/assets/121821746/39ae87a8-078b-479b-b12e-1d1c108d49a1)
 
 
 
