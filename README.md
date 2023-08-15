@@ -6,7 +6,9 @@
 
 ## 🌐Socials
 
-![Yellow and Black Gaming Facebook Cover (2200 × 924 px)](https://github.com/Anik-18/Anik-18/assets/121821746/61218a8e-004b-4627-bf24-bbe204a4f67f)
+
+![Yellow and Black Gaming Facebook Cover (2200 × 924 px)](https://github.com/Anik-18/Anik-18/assets/121821746/13a5bb11-2fe6-4615-a73f-c1d12c1b521b)
+
 
 
 <h3 align="left">Connect with me:</h3>
