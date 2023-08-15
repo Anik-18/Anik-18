@@ -2,14 +2,9 @@
 <h1 align="center">Hi 👋, I'm S S Anik</h1>
 <h3 align="center">A Passionate Full Stack Developer From Bangladesh</h3>
 
-
-
-## 🌐Socials
-
-
 ![Yellow and Black Gaming Facebook Cover (2200 × 924 px)](https://github.com/Anik-18/Anik-18/assets/121821746/13a5bb11-2fe6-4615-a73f-c1d12c1b521b)
 
-
+## 🌐Socials
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
