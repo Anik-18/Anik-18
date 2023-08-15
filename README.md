@@ -2,13 +2,14 @@
 <h1 align="center">Hi 👋, I'm S S Anik</h1>
 <h3 align="center">A Passionate Full Stack Developer From Bangladesh</h3>
 
-![Yellow and Black Gaming Facebook Cover (2200 × 924 px)](https://github.com/Anik-18/Anik-18/assets/121821746/b93abba2-9ee0-46ba-86b1-9e212fd8c4f6)
+
 
 ## 🌐Socials
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ssanik7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SSAnik7" height="30" width="40" /></a>
+<a href="https://twitter.com/ssanik7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/githu![Yellow and Black Gaming Facebook Cover (2200 × 924 px)](https://github.com/Anik-18/Anik-18/assets/121821746/e88ab4be-3173-4963-a200-97a65ac8ec9e)
+b-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SSAnik7" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anik18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anik-543578231" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100071705527794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="S S Anik" height="30" width="40" /></a>
 <a href="https://instagram.com/ssanik05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssanik05" height="30" width="40" /></a>
