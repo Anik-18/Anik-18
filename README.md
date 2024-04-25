@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full Stack Developer From Bangladesh</h3>
 
  
- ![github banner](https://github.com/Anik-18/Anik-18/assets/121821746/39ae87a8-078b-479b-b12e-1d1c108d49a1)
+![Grey Modern Minimalist Marketing Expert Linkedin Banner (640 x 312 px) (1584 x 396 px)](https://github.com/Anik-18/Anik-18/assets/121821746/875e4b3d-8045-48cb-9212-f2dfd79b709d)
 
 
 ## 🌐Socials
@@ -83,6 +83,7 @@
  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 </div>
+
 
 
 
