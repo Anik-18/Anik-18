@@ -21,7 +21,7 @@
  <h3>Visit & Subscribe My Youtube Channel -</h3>
  </p>
 
-![Screenshot 2023-07-24 230725](https://github.com/Anik-18/Anik-18/assets/121821746/20edd943-2ce2-42f1-8465-e0257861e1d6)
+![screenshot-rocks](https://github.com/Anik-18/Anik-18/assets/121821746/34350dfc-6d8b-4bee-bc9d-8c1306603a8c)
 
     
 <div align="center"> 
@@ -82,5 +82,6 @@
  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 </div>
+
 
 
