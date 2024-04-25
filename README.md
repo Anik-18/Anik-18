@@ -21,7 +21,8 @@
  <h3>Visit & Subscribe My Youtube Channel -</h3>
  </p>
 
-![screenshot-rocks](https://github.com/Anik-18/Anik-18/assets/121821746/34350dfc-6d8b-4bee-bc9d-8c1306603a8c)
+
+![Screenshot 2024-04-25 153106](https://github.com/Anik-18/Anik-18/assets/121821746/572f64e5-7321-46fa-a48d-171515b6e9e1)
 
     
 <div align="center"> 
