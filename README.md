@@ -22,7 +22,8 @@
  </p>
 
 
-![Screenshot 2024-04-25 153106](https://github.com/Anik-18/Anik-18/assets/121821746/572f64e5-7321-46fa-a48d-171515b6e9e1)
+![Screenshot 2024-05-14 111122](https://github.com/Anik-18/Anik-18/assets/121821746/ab1a9045-0ac7-4987-bdd4-044ecc0de7f0)
+
 
     
 <div align="center"> 
