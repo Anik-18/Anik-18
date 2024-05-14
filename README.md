@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full Stack Developer From Bangladesh</h3>
 
  
-![Grey Modern Minimalist Marketing Expert Linkedin Banner (640 x 312 px) (1584 x 396 px)](https://github.com/Anik-18/Anik-18/assets/121821746/875e4b3d-8045-48cb-9212-f2dfd79b709d)
+![LinkedIn Cover](https://github.com/Anik-18/Anik-18/assets/121821746/ea0b450b-0f17-4456-8797-2a3f07aa5005)
 
 
 ## 🌐Socials
