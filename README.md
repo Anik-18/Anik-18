@@ -3,7 +3,8 @@
 <h3 align="center">A Passionate Full Stack Developer From Bangladesh</h3>
 
  
-![LinkedIn Cover](https://github.com/Anik-18/Anik-18/assets/121821746/ea0b450b-0f17-4456-8797-2a3f07aa5005)
+![LinkedIn cover](https://github.com/user-attachments/assets/f0bdd788-8d87-482c-a169-a2d6ddf47f99)
+
 
 
 ## 🌐Socials
