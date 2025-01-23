@@ -14,7 +14,7 @@
 <a href="https://twitter.com/ssanik7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SSAnik7" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anik18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anik-543578231" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100071705527794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="S S Anik" height="30" width="40" /></a>
-<a href="https://instagram.com/ssanik05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssanik05" height="30" width="40" /></a>
+<a href="https://instagram.com/proxiloweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="proxiloweb" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCcQkYi7XLTpzjc1O2a5UTjw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With S S Anik" height="30" width="40" /></a>
 <a href="https://pinterest.com/ssanik09" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145808.png" alt="ssanik09" height="30" width="40" /></a>
 </p>
