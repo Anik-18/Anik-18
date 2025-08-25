@@ -3,7 +3,8 @@
 <h3 align="center">A Passionate Full Stack Developer From Bangladesh</h3>
 
  
-![LinkedIn cover](https://github.com/user-attachments/assets/f0bdd788-8d87-482c-a169-a2d6ddf47f99)
+![linkedIn banner](https://github.com/user-attachments/assets/ae061c9c-2835-4059-b1a9-2b3e46f04d3d)
+
 
 
 
