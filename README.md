@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm S S Anik</h1>
 <h3 align="center">A Passionate Full Stack Developer From Bangladesh</h3>
 
- 
-![linkedIn banner](https://github.com/user-attachments/assets/ae061c9c-2835-4059-b1a9-2b3e46f04d3d)
+
+![facebook](https://github.com/user-attachments/assets/6559e038-7bfb-4436-9df8-90baf722dc8d)
 
 
 
